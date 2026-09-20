@@ -67,9 +67,10 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported through a private security advisory on the affected repository
 (Security tab, "Report a vulnerability"). This opens a private advisory
 rather than a public issue. Access follows GitHub's advisory permissions.
-If the affected repository has no Security tab enabled, report it the same
-way on this repository (`auny-ai/.github`) instead, and name the affected
-repository in it.
+If "Report a vulnerability" is not available on the affected repository
+(private reporting can be off even when the Security tab is present),
+report it the same way on this repository (`auny-ai/.github`) instead, and
+name the affected repository in it.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the

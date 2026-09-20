@@ -6,7 +6,7 @@ This is the org-wide default. It applies to any `auny-ai` repository that does n
 
 Use GitHub's private vulnerability reporting on the affected repository (Security tab, "Report a vulnerability"). That opens a private advisory rather than a public issue. Access follows GitHub's advisory permissions.
 
-If a repository has no Security tab enabled, or you are unsure which repository is affected, open a private vulnerability report on this repository (`auny-ai/.github`) instead, and name the affected repository in it.
+If "Report a vulnerability" is not available on the affected repository (private reporting can be off even when the Security tab is present), or you are unsure which repository is affected, open a private vulnerability report on this repository (`auny-ai/.github`) instead, and name the affected repository in it.
 
 You will get an acknowledgement within 7 days.
 
