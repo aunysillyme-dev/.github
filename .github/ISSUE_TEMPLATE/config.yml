@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report (private)
+    url: https://github.com/auny-ai/.github/security/advisories/new
+    about: This is the org-wide default contact link, used by any auny-ai repository that does not define its own issue template config. A private security advisory, not a public issue. If you know which repository is affected, report there instead.
+  - name: Which repository is this about?
+    url: https://github.com/orgs/auny-ai/repositories
+    about: Browse auny-ai's repositories and file the issue on the one it actually concerns.
