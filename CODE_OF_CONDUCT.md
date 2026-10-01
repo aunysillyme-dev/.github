@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-This is the org-wide default. It applies to any `auny-ai` repository that does not carry its own `CODE_OF_CONDUCT.md`.
+This is the org-wide default. It applies to any `aunysillyme-dev` repository that does not carry its own `CODE_OF_CONDUCT.md`.
 
 ## Our Pledge
 
@@ -69,7 +69,7 @@ reported through a private security advisory on the affected repository
 rather than a public issue. Access follows GitHub's advisory permissions.
 If "Report a vulnerability" is not available on the affected repository
 (private reporting can be off even when the Security tab is present),
-report it the same way on this repository (`auny-ai/.github`) instead, and
+report it the same way on this repository (`aunysillyme-dev/.github`) instead, and
 name the affected repository in it.
 All complaints will be reviewed and investigated promptly and fairly.
 

@@ -1,62 +1,29 @@
-# auny-ai 🕷️
+# aunysillyme.dev
 
-> Building multi-AI operating systems in public.
+AI systems, MCP servers and workflow tools, built and broken down in public by [Auny](https://x.com/AunySillyMe).
 
----
+Everything here runs in my own stack every day. Demos, write-ups and the latest releases live at **[aunysillyme.dev](https://aunysillyme.dev)**.
 
-## What this is
+## In this org
 
-Not hacks. Not "top 10 ChatGPT tips."
-
-A documented, production-tested framework for running a 
-coordinated stack of AI tools as a single operating system — 
-across content, music, code, design, and creative work.
-
-Everything in this org has been run in production.
-Pressure-tested. Nothing here is theoretical.
-It's what I do every single day.
-
----
-
-## Who builds this
-
-**Auny** — [@AunySillyMe](https://x.com/AunySillyMe)
-
-Runs a 10-tool AI stack across content, music, 
-code, and design. Documents everything in public.
-
-The bottleneck in AI output isn't the tools.
-
-It's the architecture. 
-
-This org is the proof.
-
----
-
-## What's in this org
-
-| REPO | WHAT IT IS |
+| Repo | What it is |
 |---|---|
-| [claude-os](https://github.com/auny-ai/claude-os) | The flagship. Full multi-AI operating system — session protocols, vault architecture, persona framework, workflow builds |
-| More coming | Prompt vault, workflow teardowns, Obsidian AI brain, multi-AI stack docs |
+| [ai-creator-os](https://github.com/aunysillyme-dev/ai-creator-os) | An Obsidian, Claude and MCP setup for creative work, with templates and documented workflows |
+| [claude-os](https://github.com/aunysillyme-dev/claude-os) | Session protocols, vault architecture and tool routing for a coordinated multi-AI setup |
+| [grok-mcp-server](https://github.com/aunysillyme-dev/grok-mcp-server) | Grok search, chat, vision and media tools for MCP clients, deployed to your own Cloudflare account |
+| [mcp-core](https://github.com/aunysillyme-dev/mcp-core) | Dependency-free building blocks for MCP servers on Cloudflare Workers |
 
----
+## Packages
 
-## The stack
+My npm tools live on my personal account, [@aunysillyme](https://github.com/aunysillyme):
 
-Claude · Claude Cowork · Claude Code · Claude Design ·
-ChatGPT · Gemini · Grok · Obsidian · Linear · Typefully ·
-Beehiiv · Suno · Soundboost AI · CapCut · Canva
-
----
+- **[model-orchestrator](https://github.com/aunysillyme/model-orchestrator)**: route work across your AI coding tools
+- **[agent-personalizer](https://github.com/aunysillyme/agent-personalizer)**: one interview, a profile and instructions for every AI you use
+- **[website-build-skill](https://github.com/aunysillyme/website-build-skill)**: teach your AI current practice in design, code, accessibility, performance and security
 
 ## Follow the build
 
-- X: [@AunySillyMe](https://x.com/AunySillyMe)
-- Newsletter: [Explained Without Fluff](https://explained-without-fluff.beehiiv.com)
-- Website: [aunysillyme.com](https://aunysillyme.com)
-- All links: [auny.media/links](https://auny.media/links)
-
----
-
-*Built in public. Documented as it runs. 🕷️*
+- **Site:** [aunysillyme.dev](https://aunysillyme.dev)
+- **X:** [@AunySillyMe](https://x.com/AunySillyMe)
+- **Newsletter:** [Explained Without Fluff](https://explained-without-fluff.beehiiv.com)
+- **Branding and marketing consulting:** [aunysillyme.com](https://aunysillyme.com)
