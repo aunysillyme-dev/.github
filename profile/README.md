@@ -14,13 +14,13 @@ I'm [Auny](https://github.com/aunysillyme). This is where I share the agent skil
 
 ### [aunx-decompose](https://github.com/aunysillyme-dev/aunx-decompose)
 
-Split a task into the smallest checkable units and parallel waves before any agent starts. A Claude Code plugin and agent skill, with a checker that rejects bad plans.
+Split a task into the smallest checkable units and parallel waves before any agent starts. One skill with plugins for Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI, OpenCode and Qwen Code, and a checker that rejects bad plans.
 
 [Source & install](https://github.com/aunysillyme-dev/aunx-decompose#readme) · [npm](https://www.npmjs.com/package/aunx-decompose)
 
 ### [aunx-skills](https://github.com/aunysillyme-dev/aunx-skills)
 
-Ten agent skills for Claude Code, Codex, Cursor and Gemini CLI, plus the marketplace that installs Decompose.
+Ten agent skills for Claude Code, Codex, Cursor and Gemini CLI. Decompose also installs from here through [skills.sh](https://skills.sh/aunysillyme-dev/aunx-skills/decompose) and my Claude Code plugin marketplace.
 
 [Browse the skills](https://github.com/aunysillyme-dev/aunx-skills#readme)
 
