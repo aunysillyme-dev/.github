@@ -8,35 +8,32 @@
   <a href="https://aunysillyme.com/blog"><img src="assets/nav-blog.png" alt="My blog" width="102" height="34"></a>
 </p>
 
-I'm [Auny](https://github.com/aunysillyme). This is where I share the MCP servers, workflows, and systems behind my AI setup. I build them for my own work, then open-source what other people can use.
+I'm [Auny](https://github.com/aunysillyme). This is where I share the agent skills, plugins, and tools behind my AI setup. I build them for my own work, then open-source what other people can use.
 
 ## <img src="assets/section-tools.svg" alt="01 / Systems & tools" width="550" height="40">
 
-### [grok-mcp-server](https://github.com/aunysillyme-dev/grok-mcp-server)
+### [aunx-decompose](https://github.com/aunysillyme-dev/aunx-decompose)
 
-Bring Grok's X search, web search, chat, vision, and media tools into your MCP client. Deploy your own copy to Cloudflare with your own xAI API key.
+Split a task into the smallest checkable units and parallel waves before any agent starts. A Claude Code plugin and agent skill, with a checker that rejects bad plans.
 
-[Source & setup](https://github.com/aunysillyme-dev/grok-mcp-server#readme)
+[Source & install](https://github.com/aunysillyme-dev/aunx-decompose#readme) · [npm](https://www.npmjs.com/package/aunx-decompose)
 
-### [ai-creator-os](https://github.com/aunysillyme-dev/ai-creator-os)
+### [aunx-skills](https://github.com/aunysillyme-dev/aunx-skills)
 
-An Obsidian, Claude, and MCP setup for creative work. Templates and documented workflows for content, music releases, and day-to-day operations.
+Ten agent skills for Claude Code, Codex, Cursor and Gemini CLI, plus the marketplace that installs Decompose.
 
-[Explore the workflows](https://github.com/aunysillyme-dev/ai-creator-os#readme)
-
-### [claude-os](https://github.com/aunysillyme-dev/claude-os)
-
-Session protocols, vault architecture, and tool routing for a coordinated AI setup. Includes a CLAUDE.md template and a starter vault.
-
-[Explore the framework](https://github.com/aunysillyme-dev/claude-os#readme)
+[Browse the skills](https://github.com/aunysillyme-dev/aunx-skills#readme)
 
 ## <img src="assets/section-packages.svg" alt="02 / More tools by Auny" width="550" height="40">
 
-My npm tools live on my personal account, [@aunysillyme](https://github.com/aunysillyme).
+My open-source tools live on my personal account, [@aunysillyme](https://github.com/aunysillyme).
 
-- **[model-orchestrator](https://github.com/aunysillyme/model-orchestrator):** route work across your AI coding tools.
+- **[model-orchestrator](https://github.com/aunysillyme/model-orchestrator):** route work across your AI coding tools, with routine work on cheaper models.
 - **[agent-personalizer](https://github.com/aunysillyme/agent-personalizer):** one profile and instructions for every AI you use.
 - **[website-build-skill](https://github.com/aunysillyme/website-build-skill):** teach your AI to research, design, build, and review websites.
+- **[repo-build-skill](https://github.com/aunysillyme/repo-build-skill):** teach your AI to build, release and launch a GitHub repo.
+- **[lean-browser-use](https://github.com/aunysillyme/lean-browser-use):** cut browser use cost in Claude Code by about 25%.
+- **[lean-computer-use](https://github.com/aunysillyme/lean-computer-use):** background Mac control for AI agents, installed with one command.
 
 [Browse my npm packages](https://www.npmjs.com/~aunysillyme)
 
@@ -44,9 +41,9 @@ My npm tools live on my personal account, [@aunysillyme](https://github.com/auny
 
 Small things I build to see what happens.
 
-- **[hearsay](https://github.com/aunysillyme-dev/hearsay):** pass a message down the line, then see who changed it.
-- **[seconded](https://github.com/aunysillyme-dev/seconded):** a concern is heard when a second person has it too.
-- **[wat-we-building](https://github.com/aunysillyme-dev/wat-we-building):** five questions before the AI builds.
+- **[hearsay](https://github.com/aunysillyme/hearsay):** pass a message down the line, then see who changed it.
+- **[seconded](https://github.com/aunysillyme/seconded):** a concern is heard when a second person has it too.
+- **[wat-we-building](https://github.com/aunysillyme/wat-we-building):** five questions before the AI builds.
 
 ## <img src="assets/section-follow.svg" alt="04 / Follow the build" width="550" height="40">
 
