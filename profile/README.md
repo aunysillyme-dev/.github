@@ -26,9 +26,9 @@ Ten agent skills for Claude Code, Codex, Cursor and Gemini CLI. Decompose also i
 
 ### [Stack](https://github.com/aunysillyme-dev/stack)
 
-Explore my curated video and design workflows. The video guide walks through planning shots, keeping characters consistent, animating stills and editing to music. Contributions are open for both stacks.
+Curated creative AI stack: tools, models and workflows for video, design and more. Open JSON data, community submissions welcome.
 
-[Read the video guide](https://aunysillyme.dev/stack/video/) · [Browse the collection](https://github.com/aunysillyme-dev/stack#readme) · [Contribute a workflow](https://github.com/aunysillyme-dev/stack/blob/main/CONTRIBUTING.md)
+[Explore the stack](https://aunysillyme.dev/stack/) · [Browse the collection](https://github.com/aunysillyme-dev/stack#readme) · [Contribute a workflow](https://github.com/aunysillyme-dev/stack/blob/main/CONTRIBUTING.md)
 
 ## <img src="assets/section-packages.svg" alt="02 / More tools by Auny" width="550" height="40">
 
